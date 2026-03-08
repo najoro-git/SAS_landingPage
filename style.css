@@ -653,3 +653,7 @@ footer .footerbtn button:hover{
         padding: 25px;
     }
 }
+
+html{
+    scroll-behavior: smooth;
+}
